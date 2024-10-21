@@ -16,6 +16,7 @@ int main(){
 for(int i=0;i<elements;i++){
  cin>>array[i];
  }
+cout<<"Array:"<<endl;
 for(int i=0;i<elements;i++){
  cout<<array[i]<<" ";
   }

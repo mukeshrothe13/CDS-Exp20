@@ -22,7 +22,7 @@ int main(){
         cout<<arr[i]<<" ";
     }
     insertionsort(arr,n);
-    cout<< "\n Sorted array: ";
+    cout<< "\nSorted array: ";
     for (int i = 0; i< n ; i++){
         cout << arr[i]<<" ";
     }
